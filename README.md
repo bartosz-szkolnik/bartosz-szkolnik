@@ -63,5 +63,5 @@ What brought me to the programming world was the ability to create things and so
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartosz-szkolnik&layout=compact&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bartosz-szkolnik&theme=transparent&hide_border=true" align="center" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=bartosz-szkolnik&theme=transparent&hide_border=true" align="center" /> -->
 </div>  
