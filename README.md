@@ -7,7 +7,7 @@ Professional TypeScript Frontend Developer & Aspiring Typescript Full-Stack Deve
 What brought me to the programming world was the ability to create things and solve problems with code. Firstly, I was interested in creating video games, but soon after I realized that building user interfaces is as satisfying or even more. Now I try to focus on building usable, modern, efficient and user friendly interfaces and solutions on both frontend and backend sides.
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [Here](https://bartosz-szkolnik-portfolio.vercel.app/)
+* 🖥️  See my portfolio [here](https://bartosz-szkolnik-portfolio.vercel.app/)
 * ✉️  You can contact me at [bartosz.szkolnik@outlook.com](mailto:bartosz.szkolnik@outlook.com)
 * 🚀  I'm currently working on [Manga Aggregator](http://manga-aggregator.vercel.app/)
 * 🧠  I'm currently improving my Next.js experience by making cool projects and also I'm learning backend technologies in Node.
